@@ -23,6 +23,7 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6
 # Experience
 <details>
   <summary> Software Engineer Intern - Snap Inc. </summary>
+ * Joining Snap Inc. as a Software Engineer Intern (team TBD)
 </details>
 <details>
   <summary> Software Engineer Intern - Square Inc. </summary>
