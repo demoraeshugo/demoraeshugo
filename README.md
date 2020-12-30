@@ -1,9 +1,20 @@
 ### Hi there 👋
+<pre>
+      ___           ___           ___           ___     
+     /\  \         /\  \         /\__\         /\  \    
+     \:\  \        \:\  \       /:/ _/_       /::\  \   
+      \:\  \        \:\  \     /:/ /\  \     /:/\:\  \  
+  ___ /::\  \   ___  \:\  \   /:/ /::\  \   /:/  \:\  \ 
+ /\  /:/\:\__\ /\  \  \:\__\ /:/__\/\:\__\ /:/__/ \:\__\
+ \:\/:/  \/__/ \:\  \ /:/  / \:\  \ /:/  / \:\  \ /:/  /
+  \::/__/       \:\  /:/  /   \:\  /:/  /   \:\  /:/  / 
+   \:\  \        \:\/:/  /     \:\/:/  /     \:\/:/  /  
+    \:\__\        \::/  /       \::/  /       \::/  /   
+     \/__/         \/__/         \/__/         \/__/    
 
-<!--
-**demoraeshugo/demoraeshugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img align="right" height="250" width="375" alt="
+hello World" background="none" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6FBAB89A6657-1.png" />
+<strong>Welcome to my GitHub profile.</strong>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+</pre>
