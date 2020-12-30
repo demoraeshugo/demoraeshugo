@@ -8,7 +8,7 @@
                                                                                                                
 </pre>
 <img align="right" height="250" width="250" alt="
-hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6FBAB89A6657-1.png" />
+hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/me-logo.png" />
 <strong>Welcome to my GitHub profile.</strong>
 
 - 🔭 I’m currently working on ...
@@ -22,14 +22,14 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6
 
 ### Experience
 <details>
-  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/snap-logo.jpg" alt="snap logo"></code>&emsp;<strong>Software Engineer Intern - Snap Inc</strong></summary>
+  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/snap-logo.jpg" alt="snap logo"></code>&emsp;<strong>Software Engineer Intern - Snap Inc</strong></summary>
  
 ###### May 2021 - August 2021
 * Joining Snap Inc. as a Software Engineer Intern (team TBD)
 </details>
 
 <details>
-  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/square-logo.jpg" alt="square logo"></code>&emsp;<strong>Software Engineer Intern - Square Inc</strong></summary>
+  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/square-logo.jpg" alt="square logo"></code>&emsp;<strong>Software Engineer Intern - Square Inc</strong></summary>
  
 ###### September 2020 - December 2020
 * Scaled a monolithic QR code self-serve system, allowing for sellers to create localized groups of tables/seats.
@@ -39,7 +39,7 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6
 </details>
 
 <details>
-  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/proofpoint-squarelogo-1586887746287.png" alt="proofpoint logo"></code>&emsp;<strong>Software Engineer Intern - Proofpoint</strong></summary>
+  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/proofpoint-logo.png" alt="proofpoint logo"></code>&emsp;<strong>Software Engineer Intern - Proofpoint</strong></summary>
 
 ###### June 2020 - August 2020
 * Enhanced customer insights into their data by building out dynamic data visualization dashboards.
