@@ -1,4 +1,6 @@
 ### 👋 Hello my name is 
+<div>
+<div align="left"><marquee behavior="scroll" direction="right" scrolldelay="100" style="font-family:arial;font-size:14px;width:100%;">Hugo De Moraes
 <pre>
  __  __  __  __  ______  ______       _____   ______       __    __  ______  ______  ______  ______  ______    
 /\ \_\ \/\ \/\ \/\  ___\/\  __ \     /\  __-./\  ___\     /\ "-./  \/\  __ \/\  == \/\  __ \/\  ___\/\  ___\   
@@ -7,6 +9,7 @@
   \/_/\/_/\/_____/\/_____/\/_____/     \/____/ \/_____/     \/_/  \/_/\/_____/\/_/ /_/\/_/\/_/\/_____/\/_____/ 
                                                                                                                
 </pre>
+</div>
 <img align="right" height="250" width="250" alt="
 hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/me-logo.png" />
 <strong>Welcome to my GitHub profile.</strong>
