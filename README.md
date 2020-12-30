@@ -48,5 +48,6 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6
 </details>
 
 ### Tools & Technologies
-####### Please note: by no means is this list exhaustive
+
+####### Please note this is not an exhaustive list
 Hello World
