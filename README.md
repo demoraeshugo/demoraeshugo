@@ -22,13 +22,13 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6
 
 ### Experience
 <details>
-  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/snap-logo.jpg" alt="snap ghost"></code>&emsp;Software Engineer Intern - Snap Inc</summary>
+  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/snap-logo.jpg" alt="snap logo"></code>&emsp;Software Engineer Intern - Snap Inc</summary>
 
 * Joining Snap Inc. as a Software Engineer Intern (team TBD)
 </details>
 
 <details>
-  <summary>Software Engineer Intern - Square Inc</summary>
+  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/square-logo.jpg" alt="square logo"></code>&emsp;Software Engineer Intern - Square Inc</summary>
   
 * Scaled a monolithic QR code self-serve system, allowing for sellers to create localized groups of tables/seats.
 * Enabled Square to attract much larger sellers with complex venues to easily and efficiently create a contact-less self-serve experience.
@@ -37,7 +37,7 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6
 </details>
 
 <details>
-  <summary>Software Engineer Intern - Proofpoint</summary>
+  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/proofpoint-squarelogo-1586887746287.png" alt="proofpoint logo"></code>&emsp;Software Engineer Intern - Proofpoint</summary>
 
 * Enhanced customer insights into their data by building out dynamic data visualization dashboards.
 * Fully integrated and contributed to an Agile engineering team maintaining key data-driven consumer-facing applications.
