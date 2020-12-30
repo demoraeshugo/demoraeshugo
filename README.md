@@ -46,6 +46,23 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons
 * Contributed production ready, peer reviewed React and Node REST API code.
 </details>
 
+<details>
+  <summary>
+   <div>
+    <code float="left">
+      <img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/proofpoint-logo.png" alt="proofpoint logo">
+    </code>
+    <strong>Software Engineer Intern - Proofpoint</strong>
+    <span style="float:right"> June 2020 - August 2020 </span>
+   </div>
+  </summary>
+
+###### June 2020 - August 2020
+* Enhanced customer insights into their data by building out dynamic data visualization dashboards.
+* Fully integrated and contributed to an Agile engineering team maintaining key data-driven consumer-facing applications.
+* Contributed production ready, peer reviewed React and Node REST API code.
+</details>
+
 ### Tools & Technologies
 
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/c-logo.png" alt="c logo"></code>
