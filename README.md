@@ -1,7 +1,4 @@
 ### 👋 Hello my name is 
-<div>
-<div align="left"><marquee behavior="scroll" direction="right" scrolldelay="100" style="font-family:arial;font-size:14px;width:100%;">Hugo De Moraes
-</div>
 <pre>
  __  __  __  __  ______  ______       _____   ______       __    __  ______  ______  ______  ______  ______    
 /\ \_\ \/\ \/\ \/\  ___\/\  __ \     /\  __-./\  ___\     /\ "-./  \/\  __ \/\  == \/\  __ \/\  ___\/\  ___\   
