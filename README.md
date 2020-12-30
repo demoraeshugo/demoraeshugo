@@ -19,3 +19,14 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# Experience
+<details>
+  <summary> Software Engineer Intern - Snap Inc. </summary>
+</details>
+<details>
+  <summary> Software Engineer Intern - Square Inc. </summary>
+</details>
+<details>
+  <summary> Software Engineer Intern - Proofpoint </summary>
+</details>
