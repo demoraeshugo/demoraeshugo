@@ -24,14 +24,14 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6
 <details>
   <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/snap-logo.jpg" alt="snap logo"></code>&emsp;<strong>Software Engineer Intern - Snap Inc</strong></summary>
  
-### May 2021 - August 2021
+#### May 2021 - August 2021
 * Joining Snap Inc. as a Software Engineer Intern (team TBD)
 </details>
 
 <details>
   <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/square-logo.jpg" alt="square logo"></code>&emsp;<strong>Software Engineer Intern - Square Inc</strong></summary>
  
-### September 2020 - December 2020
+##### September 2020 - December 2020
 * Scaled a monolithic QR code self-serve system, allowing for sellers to create localized groups of tables/seats.
 * Enabled Square to attract much larger sellers with complex venues to easily and efficiently create a contact-less self-serve experience.
 * Built out a new user-friendly admin page where sellers can manage their groups and seats.
@@ -41,7 +41,7 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6
 <details>
   <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/proofpoint-squarelogo-1586887746287.png" alt="proofpoint logo"></code>&emsp;<strong>Software Engineer Intern - Proofpoint</strong></summary>
 
-### June 2020 - August 2020
+###### June 2020 - August 2020
 * Enhanced customer insights into their data by building out dynamic data visualization dashboards.
 * Fully integrated and contributed to an Agile engineering team maintaining key data-driven consumer-facing applications.
 * Contributed production ready, peer reviewed React and Node REST API code.
