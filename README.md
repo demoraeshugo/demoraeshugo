@@ -12,7 +12,6 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons
 <strong>Welcome to my GitHub profile.</strong>
 
 [![Spotify](https://novatorem-du09g4vey.vercel.app//api/spotify)](https://open.spotify.com/user/vjvnhuc138vw4h7n5w7o9jazw)
-🏽 - I once met a famous Queen (Ask me about it haha)
 
 - 🇧🇷 I am fluent in Portugese (Brazil)
 - 🏉 I play Rugby on Randall's Island (NYC)
