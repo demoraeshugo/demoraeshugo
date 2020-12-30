@@ -28,7 +28,7 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6
 </details>
 
 <details>
-  <summary><code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>Software Engineer Intern - Square Inc</summary>
+  <summary><code><img height="27" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/snap-ghost.jpg" alt="snap ghost"></code> Software Engineer Intern - Square Inc</summary>
   
 * Scaled a monolithic QR code self-serve system, allowing for sellers to create localized groups of tables/seats.
 * Enabled Square to attract much larger sellers with complex venues to easily and efficiently create a contact-less self-serve experience.
