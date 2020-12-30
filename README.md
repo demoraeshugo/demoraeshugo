@@ -22,7 +22,7 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6
 
 ### Experience
 <details>
-  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/snap-logo.jpg" alt="snap ghost"></code> <div style="text-align: right"> Software Engineer Intern - Snap Inc </div></summary>
+  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/snap-logo.jpg" alt="snap ghost"></code> <div style="float: right"> Software Engineer Intern - Snap Inc </div></summary>
 
 * Joining Snap Inc. as a Software Engineer Intern (team TBD)
 </details>
