@@ -22,14 +22,14 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6
 
 ### Experience
 <details>
-  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/snap-logo.jpg" alt="snap logo"></code>&emsp;Software Engineer Intern - Snap Inc</summary>
+  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/snap-logo.jpg" alt="snap logo"></code>&emsp;<strong>Software Engineer Intern - Snap Inc</strong></summary>
 
 * Joining Snap Inc. as a Software Engineer Intern (team TBD)
 </details>
 
 <details>
   <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/square-logo.jpg" alt="square logo"></code>&emsp;Software Engineer Intern - Square Inc</summary>
-  
+  ### September 2020 - December 2020
 * Scaled a monolithic QR code self-serve system, allowing for sellers to create localized groups of tables/seats.
 * Enabled Square to attract much larger sellers with complex venues to easily and efficiently create a contact-less self-serve experience.
 * Built out a new user-friendly admin page where sellers can manage their groups and seats.
