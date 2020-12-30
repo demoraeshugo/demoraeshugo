@@ -49,7 +49,7 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons
 <details>
   <summary>
    <div>
-    <code float="left">
+    <code>
       <img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/proofpoint-logo.png" alt="proofpoint logo">
     </code>
     <strong>Software Engineer Intern - Proofpoint</strong>
