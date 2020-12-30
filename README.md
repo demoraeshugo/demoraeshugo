@@ -52,7 +52,7 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/c-logo.png" alt="c logo"></code>
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/cpp-logo.png" alt="cpp logo"></code>
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/js-logo.png" alt="js logo"></code>
-<code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/php-logo.svg" alt="php logo"></code>
+<code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/php-logo.png" alt="php logo"></code>
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/css-logo.png" alt="css logo"></code>
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/html-logo.png" alt="html logo"></code>
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/git-logo.png" alt="git logo"></code>
