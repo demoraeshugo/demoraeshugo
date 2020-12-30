@@ -11,9 +11,9 @@
    \:\  \        \:\/:/  /     \:\/:/  /     \:\/:/  /  
     \:\__\        \::/  /       \::/  /       \::/  /   
      \/__/         \/__/         \/__/         \/__/    
-
+</pre>
 <img align="right" height="250" width="250" alt="
-hello World" background="none" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6FBAB89A6657-1.png" />
+hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6FBAB89A6657-1.png" />
 <strong>Welcome to my GitHub profile.</strong>
 
 - 🔭 I’m currently working on ...
@@ -24,5 +24,3 @@ hello World" background="none" src="https://github.com/demoraeshugo/demoraeshugo
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-</pre>
