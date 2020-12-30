@@ -17,6 +17,10 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ... He/Him
 
+[![Spotify](https://novatorem.demoraeshugo.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+
+
 ### Experience
 <details>
   <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/snap-logo.jpg" alt="snap logo"></code>&emsp;<strong>Software Engineer Intern - Snap Inc</strong></summary>
