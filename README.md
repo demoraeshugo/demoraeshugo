@@ -42,4 +42,3 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/IMG_6
 * Enhanced customer insights into their data by building out dynamic data visualization dashboards.
 * Fully integrated and contributed to an Agile engineering team maintaining key data-driven consumer-facing applications.
 * Contributed production ready, peer reviewed React and Node REST API code.
-</details>
