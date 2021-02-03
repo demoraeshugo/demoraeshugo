@@ -8,10 +8,17 @@
                                                                                                                
 </pre>
 
-<img align="right" height="250" width="250" alt="hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/me-logo.png" />
+<p align="center">
+ <img align="right" height="250" width="250" alt="hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/me-logo.png" />
+ ### Now Playing 🎧 
+ <a href="https://open.spotify.com/user/vjvnhuc138vw4h7n5w7o9jazw">
+   <img align="right" src="https://novatorem-du09g4vey.vercel.app//api/spotify" />
+ </a>
+</p>
 
-### Now Playing 🎧 
+<!--
 [![Spotify](https://novatorem-du09g4vey.vercel.app//api/spotify)](https://open.spotify.com/user/vjvnhuc138vw4h7n5w7o9jazw)
+-->
 
 ### 📊 Stats 
 
