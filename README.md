@@ -17,20 +17,12 @@
 
 ### 📊 Stats 
 
-<p align="left">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=demoraeshugo&count_private=true&show_icons=true&theme=graywhite" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoraeshugo&layout=compact&theme=graywhite" />
-</a>
-</p>
-<p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demoraeshugo&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoraeshugo&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Experience 📃 
 <details>
   <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/square-logo.jpg" alt="square logo"></code>&emsp;<strong>Software Engineer Intern - Square Inc</strong></summary>
- </p>
  
 ###### September 2020 - December 2020
 * Scaled a monolithic QR code self-serve system, allowing for sellers to create localized groups of tables/seats.
@@ -67,4 +59,15 @@
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demoraeshugo&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoraeshugo&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+-->
+<!--
+<p align="left">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=demoraeshugo&count_private=true&show_icons=true&theme=graywhite" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoraeshugo&layout=compact&theme=graywhite" />
+</a>
+</p>
+<p>
 -->
