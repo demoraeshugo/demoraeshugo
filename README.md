@@ -25,13 +25,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demoraeshugo&layout=compact&theme=graywhite" />
 </a>
 </p>
-
 <p>
 
 ### Experience 📃 
 <details>
   <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/square-logo.jpg" alt="square logo"></code>&emsp;<strong>Software Engineer Intern - Square Inc</strong></summary>
- 
  </p>
  
 ###### September 2020 - December 2020
