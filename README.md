@@ -13,11 +13,14 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons
 
 [![Spotify](https://novatorem-du09g4vey.vercel.app//api/spotify)](https://open.spotify.com/user/vjvnhuc138vw4h7n5w7o9jazw)
 
-- 🇧🇷 I am fluent in Portugese (Brazil)
+
+
+<!--- - 🇧🇷 I am fluent in Portugese (Brazil)
 - 🏉 I play Rugby on Randall's Island (NYC)
 - 👸 I once met a famous Queen (Ask me about it)
-- 😁 I won best laugh in my graduating class (Now that's an achievement!)
+- 😁 I won best laugh in my graduating class (Now that's an achievement!) -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoraeshugo&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Experience
 <details>
@@ -40,8 +43,6 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons
 </details>
 
 ### Tools & Technologies
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoraeshugo&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/c-logo.png" alt="c logo"></code>
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/cpp-logo.png" alt="cpp logo"></code>
