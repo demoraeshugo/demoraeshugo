@@ -41,6 +41,8 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons
 
 ### Tools & Technologies
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoraeshugo&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/c-logo.png" alt="c logo"></code>
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/cpp-logo.png" alt="cpp logo"></code>
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/js-logo.png" alt="js logo"></code>
