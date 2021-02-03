@@ -20,7 +20,7 @@ hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons
 - 👸 I once met a famous Queen (Ask me about it)
 - 😁 I won best laugh in my graduating class (Now that's an achievement!) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoraeshugo&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoraeshugo&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Experience
 <details>
