@@ -18,9 +18,10 @@
 ### 📊 Stats 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoraeshugo&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demoraeshugo&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-### Experience 📃 
+### 📃 Experience 
 <details>
   <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/square-logo.jpg" alt="square logo"></code>&emsp;<strong>Software Engineer Intern - Square Inc</strong></summary>
  
@@ -40,7 +41,7 @@
 * Contributed production ready, peer reviewed React and Node REST API code.
 </details>
 
-### Tools & Technologies 🛠
+### 🛠 Tools & Technologies 
 
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/c-logo.png" alt="c logo"></code>
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/cpp-logo.png" alt="cpp logo"></code>
