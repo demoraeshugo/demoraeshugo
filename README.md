@@ -12,11 +12,10 @@
  ### Now Playing 🎧 
 [![Spotify](https://novatorem-du09g4vey.vercel.app//api/spotify)](https://open.spotify.com/user/vjvnhuc138vw4h7n5w7o9jazw)
 <img align="right" height="250" width="250" alt="hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/me-logo.png" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoraeshugo&count_private=true&include_all_commits=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ### 📊 Stats 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoraeshugo&count_private=true&include_all_commits=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demoraeshugo&layout=compact&theme=react&langs_count=6?hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📃 Experience 
