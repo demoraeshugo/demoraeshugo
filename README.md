@@ -43,6 +43,7 @@
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/c-logo.png" alt="c logo"></code>
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/cpp-logo.png" alt="cpp logo"></code>
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/js-logo.png" alt="js logo"></code>
+<code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/java-logo.png" alt="java logo"></code>
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/react-logo.png" alt="react logo"></code>
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/redux-logo.png" alt="redux logo"></code>
 <code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/Vue-logo.png" alt="vue logo"></code>
