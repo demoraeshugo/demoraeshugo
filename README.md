@@ -21,6 +21,10 @@
 ### Experience 📃
 <details>
   <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/snap-logo.jpg" alt="snap logo"></code>&emsp;<strong>Software Engineer Intern - Snap Inc</strong></summary>
+ 
+###### May 2021 - August 2021
+* Joining Snap Inc. as a Software Engineer Intern (team TBD)
+</details>
 
 <details>
   <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/square-logo.jpg" alt="square logo"></code>&emsp;<strong>Software Engineer Intern - Square Inc</strong></summary>
