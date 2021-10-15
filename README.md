@@ -23,26 +23,28 @@
   <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/snap-logo.jpg" alt="snap logo"></code>&emsp;<strong>Software Engineer Intern - Snap Inc</strong></summary>
  
 ###### May 2021 - August 2021
-* Joining Snap Inc. as a Software Engineer Intern (team TBD)
+* Empowering people to express themselves, live in the moment, learn about the world, and have fun together
+* Working on the Operating System powering Spectacles at Snap Labs
+* Python, C++
 </details>
 
 <details>
   <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/square-logo.jpg" alt="square logo"></code>&emsp;<strong>Software Engineer Intern - Square Inc</strong></summary>
  
 ###### September 2020 - December 2020
-* Scaled a monolithic QR code self-serve system, allowing for sellers to create localized groups of tables/seats.
-* Enabled Square to attract much larger sellers with complex venues to easily and efficiently create a contact-less self-serve experience.
-* Built out a new user-friendly admin page where sellers can manage their groups and seats.
-* Redesigned the API endpoints to support efficient CRUD operations with scale in mind.
+* Enabled Square to attract large Sellers to their "Self-Serve" experience by scaling the product such that large, complex, venues could easily be managed and expanded.
+* Designed and implemented a new API contract to provide more efficient CRUD operations at scale
+* Wrote a new admin dashboard for Sellers to configure their Self-Serve experience
+* Javascript, Vue.JS, VueX, PHP, Laravel, SQL
 </details>
 
 <details>
   <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/proofpoint-logo.png" alt="proofpoint logo"></code>&emsp;<strong>Software Engineer Intern - Proofpoint</strong></summary>
 
 ###### June 2020 - August 2020
-* Enhanced customer insights into their data by building out dynamic data visualization dashboards.
-* Fully integrated and contributed to an Agile engineering team maintaining key data-driven consumer-facing applications.
-* Contributed production ready, peer reviewed React and Node REST API code.
+* Enhanced customer insights into their data by building out dynamic data visualization components.
+* Delivered a new Dashboard widget comprised of aggregate data in a clean, user-friendly visual, complete with data-filtering and placement configuration.
+* Javascript, React.JS, Redux, Reselect, Node.JS, Express.JS, SQL
 </details>
 
 ### Tools & Technologies 🛠
