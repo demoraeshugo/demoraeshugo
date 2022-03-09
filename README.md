@@ -1,4 +1,7 @@
 ### Hey there! Welcome to my github 👋 
+
+Tech, Art, and Music enthusiast. Currently wrapping up my studies in Computer Science at Rutgers University. 
+
 <!-- <pre>
  __  __  __  __  ______  ______       _____   ______       __    __  ______  ______  ______  ______  ______    
 /\ \_\ \/\ \/\ \/\  ___\/\  __ \     /\  __-./\  ___\     /\ "-./  \/\  __ \/\  == \/\  __ \/\  ___\/\  ___\   
@@ -8,19 +11,30 @@
                                                                                                                
 </pre> -->
 
-___
+---
  
- <!--
  ### Now Playing 🎧 
 [![Spotify](https://novatorem-du09g4vey.vercel.app//api/spotify)](https://open.spotify.com/user/vjvnhuc138vw4h7n5w7o9jazw)
-<img align="right" height="250" width="250" alt="hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/me-logo.png" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoraeshugo&count_private=true&include_all_commits=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+<!-- <img align="right" height="250" width="250" alt="hello World" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/me-logo.png" /> -->
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demoraeshugo&count_private=true&include_all_commits=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 ### Stats 📊 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demoraeshugo&layout=compact&theme=default&langs_count=6&hide=html,css,scss,swift)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Experience 📃
+<details>
+  <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/nyu-logo.png" alt="nyu logo"></code>&emsp;<strong>Associate Research Scientist - NYU</strong></summary>
+ 
+###### January 2022 - June 2022
+* Joining a small team of engineers working under Professor Pelli's supervision to help
+implement software for online vision & hearing testing.
+* Deriving a novel approach to perform live calibration of participant's acoustic environment using a p2p smartphone/browser connection to play, record, and analyze a signal, providing control over hardware acoustic variability.
+* Javascript, Typescript, WebRTC, Signal Processing, Audio Engineering
+</details>
+
 <details>
   <summary><code><img height="35" src="https://github.com/demoraeshugo/demoraeshugo/blob/master/Icons/snap-logo.jpg" alt="snap logo"></code>&emsp;<strong>Software Engineer Intern - Snap Inc</strong></summary>
  
